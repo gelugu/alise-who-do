@@ -1,0 +1,17 @@
+{
+  "name": "alice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "gelugu",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
