@@ -1,11 +1,12 @@
 {
   "name": "alice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alice skill (test)",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "docekr-compose up"
+    "dev": "docker-compose up",
+    "deploy": "git push heroku main"
   },
   "author": "gelugu",
   "license": "ISC",
