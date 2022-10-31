@@ -11,7 +11,7 @@
   "author": "gelugu",
   "license": "ISC",
   "dependencies": {
-    "micro": "^9.3.4"
+    "micro": "^9.4.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
